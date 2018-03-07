@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 9d985b44fe82dc74099eae5ecd355df8
+timeCreated: 1520410394
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back_Foot_Left
+    100002: Back_Foot_Right
+    100004: Back_Leg_Bottom_Joint_Left
+    100006: Back_Leg_Bottom_Joint_Right
+    100008: Back_Leg_Bottom_Left
+    100010: Back_Leg_Bottom_Right
+    100012: Back_Leg_Mid_Joint_Left
+    100014: Back_Leg_Mid_Joint_Right
+    100016: Back_Leg_Top_Joint_Left
+    100018: Back_Leg_Top_Joint_Right
+    100020: Back_Leg_Top_Left
+    100022: Back_Leg_Top_Right
+    100024: Front_Foot_Left
+    100026: Front_Foot_Right
+    100028: Front_Leg_Bottom_Joint_Left
+    100030: Front_Leg_Bottom_Joint_Right
+    100032: Front_Leg_Bottom_Left
+    100034: Front_Leg_Bottom_Right
+    100036: Front_Leg_Mid_Joint_Left
+    100038: Front_Leg_Mid_Joint_Right
+    100040: Front_Leg_Top_Joint_Left
+    100042: Front_Leg_Top_Joint_Right
+    100044: Front_Leg_Top_Left
+    100046: Front_Leg_Top_Right
+    100048: Head
+    100050: Main_Body
+    100052: Main_Body_Two
+    100054: //RootNode
+    400000: Back_Foot_Left
+    400002: Back_Foot_Right
+    400004: Back_Leg_Bottom_Joint_Left
+    400006: Back_Leg_Bottom_Joint_Right
+    400008: Back_Leg_Bottom_Left
+    400010: Back_Leg_Bottom_Right
+    400012: Back_Leg_Mid_Joint_Left
+    400014: Back_Leg_Mid_Joint_Right
+    400016: Back_Leg_Top_Joint_Left
+    400018: Back_Leg_Top_Joint_Right
+    400020: Back_Leg_Top_Left
+    400022: Back_Leg_Top_Right
+    400024: Front_Foot_Left
+    400026: Front_Foot_Right
+    400028: Front_Leg_Bottom_Joint_Left
+    400030: Front_Leg_Bottom_Joint_Right
+    400032: Front_Leg_Bottom_Left
+    400034: Front_Leg_Bottom_Right
+    400036: Front_Leg_Mid_Joint_Left
+    400038: Front_Leg_Mid_Joint_Right
+    400040: Front_Leg_Top_Joint_Left
+    400042: Front_Leg_Top_Joint_Right
+    400044: Front_Leg_Top_Left
+    400046: Front_Leg_Top_Right
+    400048: Head
+    400050: Main_Body
+    400052: Main_Body_Two
+    400054: //RootNode
+    2300000: Back_Foot_Left
+    2300002: Back_Foot_Right
+    2300004: Back_Leg_Bottom_Joint_Left
+    2300006: Back_Leg_Bottom_Joint_Right
+    2300008: Back_Leg_Bottom_Left
+    2300010: Back_Leg_Bottom_Right
+    2300012: Back_Leg_Mid_Joint_Left
+    2300014: Back_Leg_Mid_Joint_Right
+    2300016: Back_Leg_Top_Joint_Left
+    2300018: Back_Leg_Top_Joint_Right
+    2300020: Back_Leg_Top_Left
+    2300022: Back_Leg_Top_Right
+    2300024: Front_Foot_Left
+    2300026: Front_Foot_Right
+    2300028: Front_Leg_Bottom_Joint_Left
+    2300030: Front_Leg_Bottom_Joint_Right
+    2300032: Front_Leg_Bottom_Left
+    2300034: Front_Leg_Bottom_Right
+    2300036: Front_Leg_Mid_Joint_Left
+    2300038: Front_Leg_Mid_Joint_Right
+    2300040: Front_Leg_Top_Joint_Left
+    2300042: Front_Leg_Top_Joint_Right
+    2300044: Front_Leg_Top_Left
+    2300046: Front_Leg_Top_Right
+    2300048: Head
+    2300050: Main_Body
+    2300052: Main_Body_Two
+    3300000: Back_Foot_Left
+    3300002: Back_Foot_Right
+    3300004: Back_Leg_Bottom_Joint_Left
+    3300006: Back_Leg_Bottom_Joint_Right
+    3300008: Back_Leg_Bottom_Left
+    3300010: Back_Leg_Bottom_Right
+    3300012: Back_Leg_Mid_Joint_Left
+    3300014: Back_Leg_Mid_Joint_Right
+    3300016: Back_Leg_Top_Joint_Left
+    3300018: Back_Leg_Top_Joint_Right
+    3300020: Back_Leg_Top_Left
+    3300022: Back_Leg_Top_Right
+    3300024: Front_Foot_Left
+    3300026: Front_Foot_Right
+    3300028: Front_Leg_Bottom_Joint_Left
+    3300030: Front_Leg_Bottom_Joint_Right
+    3300032: Front_Leg_Bottom_Left
+    3300034: Front_Leg_Bottom_Right
+    3300036: Front_Leg_Mid_Joint_Left
+    3300038: Front_Leg_Mid_Joint_Right
+    3300040: Front_Leg_Top_Joint_Left
+    3300042: Front_Leg_Top_Joint_Right
+    3300044: Front_Leg_Top_Left
+    3300046: Front_Leg_Top_Right
+    3300048: Head
+    3300050: Main_Body
+    3300052: Main_Body_Two
+    4300000: Back_Foot_Left
+    4300002: Back_Foot_Right
+    4300004: Back_Leg_Bottom_Joint_Left
+    4300006: Back_Leg_Bottom_Joint_Right
+    4300008: Back_Leg_Bottom_Left
+    4300010: Back_Leg_Bottom_Right
+    4300012: Back_Leg_Mid_Joint_Left
+    4300014: Back_Leg_Mid_Joint_Right
+    4300016: Back_Leg_Top_Joint_Left
+    4300018: Back_Leg_Top_Joint_Right
+    4300020: Back_Leg_Top_Left
+    4300022: Back_Leg_Top_Right
+    4300024: Front_Foot_Left
+    4300026: Front_Foot_Right
+    4300028: Front_Leg_Bottom_Joint_Left
+    4300030: Front_Leg_Bottom_Joint_Right
+    4300032: Front_Leg_Bottom_Left
+    4300034: Front_Leg_Bottom_Right
+    4300036: Front_Leg_Mid_Joint_Left
+    4300038: Front_Leg_Mid_Joint_Right
+    4300040: Front_Leg_Top_Joint_Left
+    4300042: Front_Leg_Top_Joint_Right
+    4300044: Front_Leg_Top_Left
+    4300046: Front_Leg_Top_Right
+    4300048: Head
+    4300050: Main_Body
+    4300052: Main_Body_Two
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
